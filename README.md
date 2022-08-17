@@ -1,5 +1,5 @@
 # Sorting-algo
-Small project to visualize sorting algorithms - <a href="https://sorting-algo-1698c.web.app/" target="_blank">link</a>.
+Small project to visualize sorting algorithms using JavaScript, React and firebase - <a href="https://sorting-algo-1698c.web.app/" target="_blank">link</a>.
 
 <h4>Update 17.8.22: - Initial release - currently works only on web</h4>
 
